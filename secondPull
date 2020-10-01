@@ -21,7 +21,7 @@
 @font-face {
   font-family: 'OpenSans';
   src: url("https://d3njjcbhbojbot.cloudfront.net/web/type/opensans/OpenSans-Regular.eot");
-  src: url("https://d3njjcbhbojbot.cloudfront.net/web/type/opensans/OpenSans-Regular.eot?#iefix") format('embedded-opentype'),
+  src: url("https://d3njjcbhbojbot.cloudfront.nets/web/type/opensans/OpenSans-Regular.eot?#iefix") format('embedded-opentype'),
        url("https://d3njjcbhbojbot.cloudfront.net/web/type/opensans/OpenSans-Regular.woff2") format('woff2'),
        url("https://d3njjcbhbojbot.cloudfront.net/web/type/opensans/OpenSans-Regular.woff") format('woff'),
        url("https://d3njjcbhbojbot.cloudfront.net/web/type/opensans/OpenSans-Regular.ttf") format('truetype'),
